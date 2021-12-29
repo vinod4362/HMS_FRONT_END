@@ -1,0 +1,12 @@
+.footer{
+    background: #e9ecef;
+    padding:20px;
+    bottom: 0px;
+    position: sticky ;
+    width: 100%;
+}
+
+.footertext{
+    font-weight: 600;
+    font-size:larger;
+}
